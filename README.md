@@ -25,6 +25,10 @@ If you want to just do something quick and simple, then you can use Phaser for a
 
 Got an idea for a phone app that may be useful? Lots of options to making these. Let's hear your idea, and we'll figure out a plan using the right tools for the job.
 
+## Electronics + Robotics
+
+This is going to be a challenge to do remotely, but if you can get the parts yourself, we can walk through things or provide support over our weekly video conferences.
+
 ### Web Pages
 
 Want do make a website for your school, club, family, project, fan site?  Use HTML, CSS, and JavaScript and get your site published. 
