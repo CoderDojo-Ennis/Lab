@@ -21,7 +21,7 @@ If you want to make a real game that you can play on your computer, phone, or ho
 
 If you want to just do something quick and simple, then you can use Phaser for a browser based game.  Game Maker and Roblox are other options, but these are only stepping stones. You should be moving on to a "real" coding experience as quickly as possible. You won't be able to publish your games here, but you'll have some fun learning some new skills.
 
-## Applications
+### Applications
 
 Got an idea for a phone app that may be useful? Lots of options to making these. Let's hear your idea, and we'll figure out a plan using the right tools for the job.
 
